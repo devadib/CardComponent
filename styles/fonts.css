@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "YekanBakhBold";
+    src: url("../fonts/YekanBakh-Bold.woff");
+}
+
+@font-face {
+    font-family: "YekanBakhHeavy";
+    src: url("../fonts/YekanBakh-Heavy.woff");
+}
+
+@font-face {
+    font-family: "YekanBakhMedium";
+    src: url("../fonts/YekanBakh-Medium.woff");
+}
+
+@font-face {
+    font-family: "YekanBakhRegular";
+    src: url("../fonts/YekanBakh-Regular.woff");
+}
+
